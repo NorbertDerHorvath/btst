@@ -4,11 +4,11 @@ pluginManagement {
         google()
         mavenCentral()
     }
-    plugins {
-    alias(libs.plugins.android-gradle-plugin)
-    alias(libs.plugins.kotlin-android)
-    alias(libs.plugins.kotlin-compose)
-    alias(libs.plugins.kotlin-kapt)
+   plugins {
+    alias(libs.plugins.`android-gradle-plugin`)
+    alias(libs.plugins.`kotlin-android`)
+    alias(libs.plugins.`kotlin-compose`)
+    alias(libs.plugins.`kotlin-kapt`)
 }
 }
 
