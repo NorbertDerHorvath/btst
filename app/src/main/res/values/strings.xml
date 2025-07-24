@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BTST</string>
+    <string name="welcome_message">Üdvözlünk a BTST alkalmazásban!</string>
+    <string name="enter_name">Add meg a neved:</string>
+    <string name="enter_car">Add meg az alapértelmezett autód rendszámát:</string>
+    <string name="continue_label">Continue</string>
+</resources>

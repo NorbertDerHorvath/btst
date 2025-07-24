@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BTST</string>
+    <string name="welcome_message">Willkommen in der BTST App!</string>
+    <string name="enter_name">Geben Sie Ihren Namen ein:</string>
+    <string name="enter_car">Geben Sie Ihr Standard-Kennzeichen ein:</string>
+    <string name="continue_label">Continue</string>
+</resources>
