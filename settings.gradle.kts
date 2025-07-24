@@ -4,10 +4,6 @@ pluginManagement {
         google()
         mavenCentral()
     }
-
-    
-}
-
     plugins {
         alias(libs.plugins.androidGradlePlugin)
         alias(libs.plugins.kotlinAndroid)
