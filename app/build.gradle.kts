@@ -1,8 +1,8 @@
 plugins {
-    alias(libs.plugins.androidGradlePlugin)
-    alias(libs.plugins.kotlinAndroid)
-    alias(libs.plugins.kotlinCompose)
-    alias(libs.plugins.kotlinKapt)
+    alias(libs.plugins.`android-gradle-plugin`)
+    alias(libs.plugins.`kotlin-android`)
+    alias(libs.plugins.`kotlin-compose`)
+    alias(libs.plugins.`kotlin-kapt`)
 }
 
 android {
