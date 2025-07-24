@@ -5,11 +5,7 @@ pluginManagement {
         mavenCentral()
     }
 
-    // register the same TOML for plugin aliases
-    versionCatalogs {
-        create("libs") {
-            from(files("gradle/libs.versions.toml"))
-        }
+    
     }
 
     plugins {
