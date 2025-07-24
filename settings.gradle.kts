@@ -6,7 +6,7 @@ pluginManagement {
     }
 
     
-    }
+}
 
     plugins {
         alias(libs.plugins.androidGradlePlugin)
